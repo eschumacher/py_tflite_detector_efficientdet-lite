@@ -1,0 +1,4 @@
+cv2
+numpy==1.23.3
+tflite-model-maker
+opencv-python
